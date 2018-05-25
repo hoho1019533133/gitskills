@@ -7,3 +7,4 @@ add second line for test
 
 Creating a new branch is quick.
 Creating second new branch is quick.
+Creating second new branch is quickly.
